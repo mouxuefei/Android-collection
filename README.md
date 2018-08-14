@@ -125,7 +125,6 @@ This is an awesome list of tips for android，My collection
 
 
 ### 其他控件
-
 * [版本更新CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)
 * [版本更新AppUpdate](https://github.com/WVector/AppUpdate)
 <img src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_01.png?raw=true" width="1000">
@@ -141,13 +140,9 @@ This is an awesome list of tips for android，My collection
 * [高仿微信数字键盘、支付键盘](https://github.com/zuiwuyuan/WeChatPswKeyboard)
   <img src="./image/f.gif" width="300">
 * [自定义键盘](https://github.com/24Kshign/NumberKeyboard)
-
   <img src="./image/h.jpg" width="300">
-
 * [可以伸缩的ExpandableTextView](https://github.com/Chen-Sir/ExpandableTextView)
-
   <img src="./image/i.gif" width="300">
-
 * [RecyclerView实现的二维表格excelPanel](https://github.com/zhouchaoyuan/excelPanel)
   <img src="./image/j.gif" width="300">
 * [Recycleview双列表联动与悬停](https://github.com/drawthink/ExpandableRecyclerView)
