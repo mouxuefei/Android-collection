@@ -127,7 +127,6 @@ This is an awesome list of tips for android，My collection
 ### 其他控件
 * [版本更新CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)
 * [版本更新AppUpdate](https://github.com/WVector/AppUpdate)
-<img src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_01.png?raw=true" width="1000">
 * [baseViewHolderAdapter](http://www.recyclerview.org/)
 * [图片选择控件PictureSelector](https://github.com/LuckSiege/PictureSelector)
 <img src="./image/b.jpg" width="300">
