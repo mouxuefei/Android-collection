@@ -1,4 +1,4 @@
-if you like it， please star it，thanks
+精选博客，持续更新中...
 
 ### ui相关
 
@@ -67,7 +67,7 @@ if you like it， please star it，thanks
 * [手把手Fiddler掌握](https://juejin.im/post/598b0579f265da3e1727be7b?utm_source=gold_browser_extension)
 * [你真的会用Fiddler抓包工具吗—Android程序员抓包必备](https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247484492&idx=1&sn=1b4e6722ea9815e3c3c50abd2d977145&chksm=eb4768d2dc30e1c476d86e383dafdc180d45d7acaea955cc1b5ab3281c13045fd16af1b2584c&scene=21#wechat_redirect)
 
-#### 7.0,8.0，9.0适配
+#### 7.0,8.0适配
 * [Android 7.0 适配 FileProvider相机 相册 裁剪的使用](https://www.jianshu.com/p/ba57444a7e69)
 * [Android 7.0脱坑指南](https://juejin.im/entry/5997a2acf265da248d0cba48?utm_source=gold_browser_extension)
 * [Android 7.0 行为变更](https://blog.csdn.net/lmj623565791/article/details/72859156)
