@@ -97,8 +97,8 @@
 #### 面试
 * [一份用心整理的Android面试总结](https://mp.weixin.qq.com/s/LFGnn7mSjtI9LLetE11X2Q)
 * [2018年Android面试题含答案--适合中高级](https://mp.weixin.qq.com/s/fgKs5yBBVUrb0F40L_wXhQ)
-
-
+#### 测试
+* [测试文章整理](https://mp.weixin.qq.com/s/mMMcuuEHgbY67_UoyNq8gQ)
 
 #### 源码解析
 * [RecyclerView源码解析](https://www.jianshu.com/p/c52b947fe064)
