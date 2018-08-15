@@ -117,6 +117,9 @@
 #### 测试
 * [测试文章整理](https://mp.weixin.qq.com/s/mMMcuuEHgbY67_UoyNq8gQ)
 
+#### FFmpeg 
+* [《FFmpeg Basics》中文版](https://www.jianshu.com/p/5baf47e7c4cb)
+
 #### 源码解析
 * [RecyclerView源码解析](https://www.jianshu.com/p/c52b947fe064)
 * [EventBus原理与实现](https://www.jianshu.com/p/7271b8e8c33e)
@@ -164,6 +167,6 @@
 * [曲线图MPAndroidChart](https://github.com/lecho/hellocharts-android)
 * [增强recyclerview](https://github.com/nikhilpanju/RecyclerViewEnhanced)
 * [支付宝闪烁recyclerview](https://github.com/sharish/ShimmerRecyclerView)
-
+* [仿天猫京东详情页面](https://github.com/hexianqiao3755/GoodsInfoPage)
 
 
