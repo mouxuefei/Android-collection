@@ -24,6 +24,7 @@
 * [Android性能优化最佳实践](https://juejin.im/post/5b50b017f265da0f7b2f649c)
 * [Android性能优化（一）之启动加速35%](https://www.jianshu.com/p/f5514b1a826c)
 * [Android代码、图片、布局、网络和电量优化](https://mp.weixin.qq.com/s/_le64RaFMqjs_1g1G5himg)
+
 #### studio相关
 * [Android Studio中文组](http://www.android-studio.org/index.php/download/hisversion)
 * [Android Studio 3.0 新功能解析和旧项目适配](https://juejin.im/post/59f9caf6518825603a37f179?utm_source=gold_browser_extension)
@@ -34,20 +35,26 @@
 * [Android Studio 小技巧/快捷键 合集](https://juejin.im/entry/59b0b23151882524241a986c?utm_source=gold_browser_extension)
 * [使用 Gradle 对应用进行个性化定制](https://juejin.im/post/595f74486fb9a06bbb32c022?utm_source=gold_browser_extension)
 * [androiddevtools](http://www.androiddevtools.cn/)
+
 #### webview相关
 * [WebView·开车指南](https://jiandanxinli.github.io/2016-08-31.html)
 * [WebView详解](http://reezy.me/p/20170515/android-webview/?nsukey=aXsElu8VVeM7Qa54lzigv7XSWMSDguUnRw4jiejT3%2B13TeA0ZLUkM8MIWSDcqcIbLo9RhsuQyvSda18SudPFYdJbpX%2BMZdnapM9ouSfDTSliz9xtMsBPYLllLnfLtIFhfPE3YChvVFRqaKNB7EW4iQ%3D%3D)
 * [全面总结WebView遇到的坑及优化](https://mp.weixin.qq.com/s/FyxuOuTFyZ_F8D0jQ8w5bg)
+
 #### 自定义view教程
 * [安卓自定义View教程目录](http://www.gcssloop.com/customview/CustomViewIndex/)
+
 #### 屏幕适配
 * [Android 屏幕适配从未如斯简单](https://juejin.im/post/5b6250bee51d451918537021?utm_source=gold_browser_extension)
 * [一种粗暴快速的Android全屏幕适配方案。](https://github.com/Firedamp/Rudeness)
+
 #### 代码混淆
 * [Android混淆——了解这些就够了](https://mp.weixin.qq.com/s/5n9j-59o8D5ByvZQ2INddQ)
 * [Android Studio 代码混淆](https://juejin.im/post/5947e7e8128fe1006a52d922)
+
 #### 支付
 * [微信支付，支付宝支付，银联支付——三大支付总结](https://juejin.im/post/596d97576fb9a06bb874a812?utm_source=gold_browser_extension)
+
 #### 国际化
 * [Android实现多语言so easy](https://juejin.im/post/5a2417c1f265da43052e71f2?utm_source=gold_browser_extension)
 
@@ -83,17 +90,23 @@
 * [Android BLE 蓝牙开发入门](https://www.jianshu.com/p/3a372af38103)
 * [BLE](https://github.com/xiaoyaoyou1212/BLE)
 * [FastBle](https://github.com/Jasonchenlijian/FastBle)
+
 #### rxjava教程
 * [给初学者的RxJava2.0教程](https://www.jianshu.com/p/464fa025229e)
 * [MVP+Retrofit+Rxjava实战](https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247484447&idx=1&sn=057c43461d5bd597d24d3fe3403cf155&chksm=eb476881dc30e197934f6f089d9755571e0ca087dcd2cc930460c5d1cf40c736457594aad6ce&scene=21#wechat_redirect)
+
 #### kotlin
 * [Kotlin 资源大全](https://juejin.im/post/591dd9f544d904006c9fbb96)
 * [怎么用Kotlin去提高生产力：Kotlin Tips](https://juejin.im/repo/5a387aa46fb9a073b8d470ac?utm_source=gold_browser_extension)
 * [Kotlin 资源大全](https://juejin.im/post/591dd9f544d904006c9fbb96)
+* [Kotlin教学](http://www.cnblogs.com/Jetictors/tag/Kotlin/)
+
 #### springboot
 * [Spring Boot教程](https://github.com/dyc87112/SpringBoot-Learning)
+
 #### 开发规范
 * [Android 开发规范（完结版）](https://www.jianshu.com/p/45c1675bec69)
+
 #### 面试
 * [一份用心整理的Android面试总结](https://mp.weixin.qq.com/s/LFGnn7mSjtI9LLetE11X2Q)
 * [2018年Android面试题含答案--适合中高级](https://mp.weixin.qq.com/s/fgKs5yBBVUrb0F40L_wXhQ)
@@ -115,6 +128,7 @@
 * [Flutter中文网](https://flutterchina.club/)
 * [Flutter 社区中文资源](https://flutter-io.cn/#section-codelabs)
 * [Flutter学习总结系列](https://www.jianshu.com/p/2c9867e737a1)
+
 #### 组件化
 * [Android组件化开发实践](https://www.jianshu.com/p/186fa07fc48a)
 * [MVPArms官方快速组件化方案开源,来自5K star的信赖](https://www.jianshu.com/p/f671dd76868f)
