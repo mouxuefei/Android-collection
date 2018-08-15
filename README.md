@@ -24,6 +24,7 @@
 * [Android性能优化最佳实践](https://juejin.im/post/5b50b017f265da0f7b2f649c)
 * [Android性能优化（一）之启动加速35%](https://www.jianshu.com/p/f5514b1a826c)
 * [Android代码、图片、布局、网络和电量优化](https://mp.weixin.qq.com/s/_le64RaFMqjs_1g1G5himg)
+* [Android 性能优化的方方面面](https://juejin.im/entry/58a121b686b599006b442f32)
 
 #### studio相关
 * [Android Studio中文组](http://www.android-studio.org/index.php/download/hisversion)
