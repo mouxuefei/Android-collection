@@ -51,7 +51,7 @@
 #### 代码混淆
 * [Android混淆——了解这些就够了](https://mp.weixin.qq.com/s/5n9j-59o8D5ByvZQ2INddQ)
 * [Android Studio 代码混淆](https://juejin.im/post/5947e7e8128fe1006a52d922)
-
+* [Android 混淆那些事儿](https://mp.weixin.qq.com/s/WmJyiA3fDNriw5qXuoA9MA)
 #### 支付
 * [微信支付，支付宝支付，银联支付——三大支付总结](https://juejin.im/post/596d97576fb9a06bb874a812?utm_source=gold_browser_extension)
 
