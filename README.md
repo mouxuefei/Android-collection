@@ -117,8 +117,6 @@
 #### 测试
 * [测试文章整理](https://mp.weixin.qq.com/s/mMMcuuEHgbY67_UoyNq8gQ)
 
-#### FFmpeg 
-* [《FFmpeg Basics》中文版](https://www.jianshu.com/p/5baf47e7c4cb)
 
 #### 源码解析
 * [RecyclerView源码解析](https://www.jianshu.com/p/c52b947fe064)
@@ -137,8 +135,13 @@
 * [Android组件化开发实践](https://www.jianshu.com/p/186fa07fc48a)
 * [MVPArms官方快速组件化方案开源,来自5K star的信赖](https://www.jianshu.com/p/f671dd76868f)
 
+#### FFmpeg 
+* [《FFmpeg Basics》中文版](https://www.jianshu.com/p/5baf47e7c4cb)
 
-### 其他控件
+#### 其他 
+* [国内可用API合集](https://microzz.com/2017/02/03/API/)
+
+### 自己收集的开源控件
 * [版本更新CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)
 * [版本更新AppUpdate](https://github.com/WVector/AppUpdate)
 * [baseViewHolderAdapter](http://www.recyclerview.org/)
