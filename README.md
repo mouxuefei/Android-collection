@@ -98,6 +98,8 @@
 * [一份用心整理的Android面试总结](https://mp.weixin.qq.com/s/LFGnn7mSjtI9LLetE11X2Q)
 * [2018年Android面试题含答案--适合中高级](https://mp.weixin.qq.com/s/fgKs5yBBVUrb0F40L_wXhQ)
 * [LearningNotes](https://github.com/francistao/LearningNotes)
+* [Java集合必会14问(ps:讲的很细很棒)](https://www.jianshu.com/p/939b8a672070)
+
 #### 测试
 * [测试文章整理](https://mp.weixin.qq.com/s/mMMcuuEHgbY67_UoyNq8gQ)
 
