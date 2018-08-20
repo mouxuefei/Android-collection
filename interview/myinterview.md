@@ -4,3 +4,8 @@
 * [HR面试常见问题及答案](HR.md)
 * [svn和git的区别](svnAndGit.md)
 * [SurfaceView和View的最本质的区别](surface.md)
+* [http和https的区别](http和https的区别.md)
+* [apk瘦身](apklose.md)
+* [sqlite基本操作](sql.md)
+* [listView的终极优化](listview.md)
+* [Handler的原理](handler.md)
