@@ -1,5 +1,14 @@
 ![这里写图片描述](./image/colletion.jpg)
 最新精选文章，持续更新中...
+
+#### 面试
+* [一份用心整理的Android面试总结](https://mp.weixin.qq.com/s/LFGnn7mSjtI9LLetE11X2Q)
+* [2018年Android面试题含答案--适合中高级](https://mp.weixin.qq.com/s/fgKs5yBBVUrb0F40L_wXhQ)
+* [LearningNotes](https://github.com/francistao/LearningNotes)
+* [Java集合必会14问(ps:讲的很细很棒)](https://www.jianshu.com/p/939b8a672070)
+* [Awesome-Android-Interview 全面而详尽的Android面试题集](http://www.wanandroid.com/blog/show/2281)
+* [我的面试总结](./interview/myinterview.md)
+
 ### ui相关
 
 * [RGB颜色查询对照表](http://www.114la.com/other/rgb.htm)
@@ -17,7 +26,7 @@
 * [音视频控件合集](https://juejin.im/post/599febb6f265da248b04df5d?utm_source=gold_browser_extension)
 * [那些年收藏的Android开源库集合(控件)](https://www.jianshu.com/p/3baddcf948af)
 
-### 技能点
+## 技能点
 
 #### 性能优化
 * [Android应用优化方案](https://juejin.im/post/5a26919b51882533d022ed04?utm_source=gold_browser_extension)
@@ -108,12 +117,7 @@
 #### 开发规范
 * [Android 开发规范（完结版）](https://www.jianshu.com/p/45c1675bec69)
 
-#### 面试
-* [一份用心整理的Android面试总结](https://mp.weixin.qq.com/s/LFGnn7mSjtI9LLetE11X2Q)
-* [2018年Android面试题含答案--适合中高级](https://mp.weixin.qq.com/s/fgKs5yBBVUrb0F40L_wXhQ)
-* [LearningNotes](https://github.com/francistao/LearningNotes)
-* [Java集合必会14问(ps:讲的很细很棒)](https://www.jianshu.com/p/939b8a672070)
-* [Awesome-Android-Interview 全面而详尽的Android面试题集](http://www.wanandroid.com/blog/show/2281)
+
 
 #### 测试
 * [测试文章整理](https://mp.weixin.qq.com/s/mMMcuuEHgbY67_UoyNq8gQ)
