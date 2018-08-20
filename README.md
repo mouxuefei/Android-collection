@@ -57,6 +57,7 @@
 #### 屏幕适配
 * [Android 屏幕适配从未如斯简单](https://juejin.im/post/5b6250bee51d451918537021?utm_source=gold_browser_extension)
 * [一种粗暴快速的Android全屏幕适配方案。](https://github.com/Firedamp/Rudeness)
+* [骚年你的屏幕适配方式该升级了!-今日头条适配方案](https://www.jianshu.com/p/55e0fca23b4f)
 
 #### 代码混淆
 * [Android混淆——了解这些就够了](https://mp.weixin.qq.com/s/5n9j-59o8D5ByvZQ2INddQ)
