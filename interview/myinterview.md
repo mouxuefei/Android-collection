@@ -8,5 +8,5 @@
 * [apk瘦身](apklose.md)
 * [sqlite基本操作](sql.md)
 * [listView的终极优化](listview.md)
-* [Handler的原理](handler.md)
+* [Handler的原理](https://www.jianshu.com/p/b03d46809c4d)
 * [不同版本新特性](newFeature.md)
