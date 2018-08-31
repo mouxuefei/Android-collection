@@ -109,7 +109,6 @@
 #### kotlin
 * [Kotlin 资源大全](https://juejin.im/post/591dd9f544d904006c9fbb96)
 * [怎么用Kotlin去提高生产力：Kotlin Tips](https://juejin.im/repo/5a387aa46fb9a073b8d470ac?utm_source=gold_browser_extension)
-* [Kotlin 资源大全](https://juejin.im/post/591dd9f544d904006c9fbb96)
 * [Kotlin教学](http://www.cnblogs.com/Jetictors/tag/Kotlin/)
 
 #### springboot
