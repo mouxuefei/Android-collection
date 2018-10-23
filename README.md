@@ -147,6 +147,8 @@
 #### 其他 
 * [国内可用API合集](https://microzz.com/2017/02/03/API/)
 * [微信公众号markdown格式化](https://md.rmiao.top/)
+* [shadowsocks账号密码](https://www.namaho.org/ssweb/user/info)
+
 
 ### 自己收集的开源控件
 * [版本更新CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)
