@@ -3,7 +3,8 @@
 
 #### 面试
 * [一份用心整理的Android面试总结](https://mp.weixin.qq.com/s/LFGnn7mSjtI9LLetE11X2Q)
-* [2018年Android面试题含答案--适合中高级](https://mp.weixin.qq.com/s/fgKs5yBBVUrb0F40L_wXhQ)
+* [2018年Android面试题含答案--适合中高级上](https://www.cnblogs.com/huangjialin/p/8657565.html)
+* [2018年Android面试题含答案--适合中高级下](https://mp.weixin.qq.com/s/fgKs5yBBVUrb0F40L_wXhQ)
 * [LearningNotes](https://github.com/francistao/LearningNotes)
 * [Java集合必会14问(ps:讲的很细很棒)](https://www.jianshu.com/p/939b8a672070)
 * [Awesome-Android-Interview 全面而详尽的Android面试题集](http://www.wanandroid.com/blog/show/2281)
