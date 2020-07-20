@@ -13,6 +13,7 @@
 * [Android面试相关文章以及github整理](https://mp.weixin.qq.com/s/CQABJNacnsf8_s6l93JKUw)
 * [Android开发随记](https://juejin.im/post/5c9b55826fb9a070e14b05cd)
 * [Flutter 面试知识点集锦](https://mp.weixin.qq.com/s/Tn_9wMaG3h47u_ZFEq_0cA)
+* [android面试笔试总结(android篇)](https://juejin.im/post/5d9fe662f265da5b783f0651)
 
 * [强哥的面试题](https://github.com/longforus/studyNotes/blob/master/%E9%9D%A2%E8%AF%95%E9%97%AE%E7%AD%94%E9%9B%86%E9%94%A6.md)
 ### ui相关
