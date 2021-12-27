@@ -4,7 +4,6 @@
 #### 面试
 * [Android 高级开发面试题以及答案整理](https://juejin.im/post/5c8b1bd56fb9a049e12b1692)
 * [android note](https://github.com/CharonChui/AndroidNote)
-* [一份用心整理的Android面试总结](https://mp.weixin.qq.com/s/LFGnn7mSjtI9LLetE11X2Q)
 * [2018年Android面试题含答案--适合中高级上](https://xiaozhuanlan.com/topic/1493506827)
 * [2018年Android面试题含答案--适合中高级下](https://mp.weixin.qq.com/s/fgKs5yBBVUrb0F40L_wXhQ)
 * [LearningNotes](https://github.com/francistao/LearningNotes)
