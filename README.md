@@ -9,7 +9,6 @@
 * [LearningNotes](https://github.com/francistao/LearningNotes)
 * [Java集合必会14问(ps:讲的很细很棒)](https://www.jianshu.com/p/939b8a672070)
 * [Awesome-Android-Interview 全面而详尽的Android面试题集](http://www.wanandroid.com/blog/show/2281)
-* [总结的Android面试题](https://www.jianshu.com/p/afd0a19533af)
 * [Android面试相关文章以及github整理](https://mp.weixin.qq.com/s/CQABJNacnsf8_s6l93JKUw)
 * [Android开发随记](https://juejin.im/post/5c9b55826fb9a070e14b05cd)
 * [Flutter 面试知识点集锦](https://mp.weixin.qq.com/s/Tn_9wMaG3h47u_ZFEq_0cA)
